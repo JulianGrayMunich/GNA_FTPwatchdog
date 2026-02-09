@@ -8,6 +8,8 @@ using System.Linq;
 
 using GNA_CommercialLicenseValidator;
 
+using gnaDataClasses;
+
 using GNAgeneraltools;
 
 namespace FTPwatchdog
